@@ -9,8 +9,8 @@ A simple Python-based Amazon product scraper that extracts the product title and
 
 ## 📸 Example Output
 
-Product: Samsung Galaxy M14 5G (ICY Silver,4GB,128GB)
-Price: ₹ 11,990
+Product: iQOO Neo 10 (Titanium Chrome, 8GB RAM, 256GB Storage) | Snapdragon 8s Gen 4 Processor & SuperComputing Chip Q1 | 7000 mAh Battery 
+Price: ₹ 33,999
 
 ---
 
@@ -30,9 +30,9 @@ Price: ₹ 11,990
    git clone https://github.com/YOUR_USERNAME/amazon-web-scraper.git
    cd amazon-web-scraper
 
-	2.	Install dependencies
+2.	Install dependencies
 
-pip install -r requirements.txt
+	pip install -r requirements.txt
 
 
 
